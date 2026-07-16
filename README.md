@@ -112,7 +112,7 @@ The following analysis was performed:
 
 ---
 
-## 📈 Line Chart
+## 🥧 Pie Chart
 
 <p align="center">
 <img src="images/line_chart.png" width="700">
